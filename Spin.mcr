@@ -17,7 +17,7 @@ $!LOOP |NUMBEROFPICS|
 	
 	
 	$!EXPORTSETUP IMAGEWIDTH = 1500
-	$!EXPORTSETUP EXPORTFNAME = "F:/01 - Lofted Cylinder/01 - SPIV/02 - Processing/01 - Average Reconstruction/45 deg/200k_Interpolated/Animation/|LOOP|.png"
+	$!EXPORTSETUP EXPORTFNAME = "PUTSOMEPATHHERE/|LOOP|.png" #Make sure to put some path here
 	$!EXPORT 
 	EXPORTREGION = CURRENTFRAME
   
